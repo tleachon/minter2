@@ -1,0 +1,12 @@
+Step 1: Start
+Step 2: Input number
+Step 3: Look for grade equivalent
+Step 4: If grade is between 97-100, display 4.0
+Step 5: If grade is between 93-96, display 3.5
+Step 6: If grade is between 89-92, display 3.0
+Step 7: If grade is between 85-88, display 2.5
+Step 8: If grade is between 80-84, display 2.0
+Step 9: If grade is between 75-79, display 1.5
+Step 10: If grade is between 70-74, display 1.0
+Step 11: If grade is below 70, display 0
+Step 12: Stop
